@@ -371,6 +371,3 @@
             document.getElementById('noticeArea').style.display = "block";
             document.getElementById('searchBoxArea').style.display = "block";
         }
-    </script>
-</body>
-</html>
